@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "recipeName": "Chicken Caesar Salad",
+        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "ingredients": [
+            "500g ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced"
+        ],
+        "time": "30 minutes",
+        "calories": 600,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Chicken+Caesar+Salad"
+    },
+    {
+        "id": 2,
+        "recipeName": "Grilled Salmon Bowl",
+        "description": "Healthy and flavorful bowl with grilled salmon and fresh veggies.",
+        "ingredients": [
+            "200g salmon fillet",
+            "1 cup quinoa, cooked",
+            "1 avocado, sliced"
+        ],
+        "time": "25 minutes",
+        "calories": 450,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Grilled+Salmon+Bowl"
+    },
+    {
+        "id": 3,
+        "recipeName": "Vegetarian Pizza",
+        "description": "Crispy thin crust pizza topped with fresh veggies and cheese.",
+        "ingredients": [
+            "1 pizza dough",
+            "100g mozzarella cheese",
+            "1 cup mixed vegetables"
+        ],
+        "time": "40 minutes",
+        "calories": 700,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Vegetarian+Pizza"
+    },
+    {
+        "id": 4,
+        "recipeName": "Spaghetti Carbonara",
+        "description": "Classic Italian pasta with creamy egg-based sauce and bacon.",
+        "ingredients": [
+            "200g spaghetti",
+            "3 eggs, beaten",
+            "100g bacon, diced"
+        ],
+        "time": "20 minutes",
+        "calories": 550,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Spaghetti+Carbonara"
+    },
+    {
+        "id": 5,
+        "recipeName": "Avocado Toast",
+        "description": "Simple and nutritious breakfast option with smashed avocado.",
+        "ingredients": [
+            "2 slices of bread",
+            "1 avocado, mashed",
+            "Salt and pepper to taste"
+        ],
+        "time": "10 minutes",
+        "calories": 250,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Avocado+Toast"
+    },
+    {
+        "id": 6,
+        "recipeName": "Chicken Stir Fry",
+        "description": "Quick and easy stir fry with chicken and colorful vegetables.",
+        "ingredients": [
+            "200g chicken breast, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp soy sauce"
+        ],
+        "time": "20 minutes",
+        "calories": 400,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Chicken+Stir+Fry"
+    },
+    {
+        "id": 7,
+        "recipeName": "Mango Smoothie",
+        "description": "Refreshing smoothie made with fresh mango and yogurt.",
+        "ingredients": [
+            "1 ripe mango, diced",
+            "1 cup yogurt",
+            "1/2 cup milk"
+        ],
+        "time": "5 minutes",
+        "calories": 200,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Mango+Smoothie"
+    },
+    {
+        "id": 8,
+        "recipeName": "Beef Tacos",
+        "description": "Mexican-style tacos with seasoned beef and fresh toppings.",
+        "ingredients": [
+            "300g ground beef",
+            "6 taco shells",
+            "1 cup shredded lettuce"
+        ],
+        "time": "30 minutes",
+        "calories": 500,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Beef+Tacos"
+    },
+    {
+        "id": 9,
+        "recipeName": "Caprese Salad",
+        "description": "Light Italian salad with fresh mozzarella, tomatoes, and basil.",
+        "ingredients": [
+            "200g mozzarella cheese",
+            "2 tomatoes, sliced",
+            "Fresh basil leaves"
+        ],
+        "time": "10 minutes",
+        "calories": 300,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Caprese+Salad"
+    },
+    {
+        "id": 10,
+        "recipeName": "Chocolate Brownies",
+        "description": "Rich and fudgy brownies with a chocolatey flavor.",
+        "ingredients": [
+            "200g dark chocolate",
+            "100g butter",
+            "3 eggs, beaten"
+        ],
+        "time": "45 minutes",
+        "calories": 450,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Chocolate+Brownies"
+    },
+    {
+        "id": 11,
+        "recipeName": "Greek Salad",
+        "description": "Fresh salad with cucumbers, olives, feta cheese, and olive oil.",
+        "ingredients": [
+            "1 cucumber, diced",
+            "100g feta cheese",
+            "1/2 cup olives"
+        ],
+        "time": "15 minutes",
+        "calories": 250,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Greek+Salad"
+    },
+    {
+        "id": 12,
+        "recipeName": "Pancakes",
+        "description": "Fluffy pancakes perfect for breakfast with syrup or toppings.",
+        "ingredients": [
+            "1 cup flour",
+            "1 egg, beaten",
+            "1 cup milk"
+        ],
+        "time": "20 minutes",
+        "calories": 350,
+        "action": "Want to Cook",
+        "img": "https://via.placeholder.com/150?text=Pancakes"
+    }
+]

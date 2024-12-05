@@ -22,6 +22,10 @@ const Beground = () => {
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className='text-center items-center gap-28 pt-28'>
+                <h3 className='text-4xl font-semibold pb-6'>Our Recipes</h3>
+                <p>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget <br /> urna volutpat curabitur elementum mauris aenean neque. </p>
             </div> 
         </div>
     );
