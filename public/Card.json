@@ -8,10 +8,10 @@
             "1 onion, chopped",
             "2 cloves garlic, minced"
         ],
-        "time": "30 minutes",
+        "time": 30,
         "calories": 600,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Chicken+Caesar+Salad"
+        "img": "https://i.ibb.co.com/yhxLbJq/pexels-enginakyurt-1437267.jpg"
     },
     {
         "id": 2,
@@ -22,10 +22,10 @@
             "1 cup quinoa, cooked",
             "1 avocado, sliced"
         ],
-        "time": "25 minutes",
+        "time": 25,
         "calories": 450,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Grilled+Salmon+Bowl"
+        "img": "https://i.ibb.co.com/y6WN5q3/pexels-horizon-content-2100060-3763847.jpg"
     },
     {
         "id": 3,
@@ -36,10 +36,10 @@
             "100g mozzarella cheese",
             "1 cup mixed vegetables"
         ],
-        "time": "40 minutes",
+        "time": 40,
         "calories": 700,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Vegetarian+Pizza"
+        "img": "https://i.ibb.co.com/j4DSr0q/pexels-taryn-elliott-7172067.jpg"
     },
     {
         "id": 4,
@@ -50,10 +50,10 @@
             "3 eggs, beaten",
             "100g bacon, diced"
         ],
-        "time": "20 minutes",
+        "time": 20,
         "calories": 550,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Spaghetti+Carbonara"
+        "img": "https://i.ibb.co.com/LPSXXF7/pexels-sam-lion-5710178.jpg"
     },
     {
         "id": 5,
@@ -64,10 +64,10 @@
             "1 avocado, mashed",
             "Salt and pepper to taste"
         ],
-        "time": "10 minutes",
+        "time": 10,
         "calories": 250,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Avocado+Toast"
+        "img": "https://i.ibb.co.com/7GG1qM0/pexels-fotios-photos-1321942.jpg"
     },
     {
         "id": 6,
@@ -78,10 +78,10 @@
             "1 cup broccoli florets",
             "2 tbsp soy sauce"
         ],
-        "time": "20 minutes",
+        "time": 20,
         "calories": 400,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Chicken+Stir+Fry"
+        "img": "https://i.ibb.co.com/ck6tbJS/pexels-rdne-6646021.jpg"
     },
     {
         "id": 7,
@@ -92,10 +92,10 @@
             "1 cup yogurt",
             "1/2 cup milk"
         ],
-        "time": "5 minutes",
+        "time": 5,
         "calories": 200,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Mango+Smoothie"
+        "img": "https://i.ibb.co.com/vC98F1z/pexels-cipotesv-16724960.jpg"
     },
     {
         "id": 8,
@@ -106,10 +106,10 @@
             "6 taco shells",
             "1 cup shredded lettuce"
         ],
-        "time": "30 minutes",
+        "time": 30,
         "calories": 500,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Beef+Tacos"
+        "img": "https://i.ibb.co.com/YjkzTJS/pexels-cristian-rojas-7613563.jpg"
     },
     {
         "id": 9,
@@ -120,10 +120,10 @@
             "2 tomatoes, sliced",
             "Fresh basil leaves"
         ],
-        "time": "10 minutes",
+        "time": 10,
         "calories": 300,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Caprese+Salad"
+        "img": "https://i.ibb.co.com/CBR7DsQ/pexels-nano-erdozain-120534369-28841118.jpg"
     },
     {
         "id": 10,
@@ -134,10 +134,10 @@
             "100g butter",
             "3 eggs, beaten"
         ],
-        "time": "45 minutes",
+        "time": 45,
         "calories": 450,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Chocolate+Brownies"
+        "img": "https://i.ibb.co.com/PFfFYpq/pexels-ella-olsson-572949-3026804.jpg"
     },
     {
         "id": 11,
@@ -148,10 +148,10 @@
             "100g feta cheese",
             "1/2 cup olives"
         ],
-        "time": "15 minutes",
+        "time": 15,
         "calories": 250,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Greek+Salad"
+        "img": "https://i.ibb.co.com/zSfgDTK/pexels-dana-tentis-118658-1239312.jpg"
     },
     {
         "id": 12,
@@ -162,9 +162,9 @@
             "1 egg, beaten",
             "1 cup milk"
         ],
-        "time": "20 minutes",
+        "time": 20,
         "calories": 350,
         "action": "Want to Cook",
-        "img": "https://via.placeholder.com/150?text=Pancakes"
+        "img": "https://i.ibb.co.com/2hCNkXn/pexels-rama-khandkar-2113556.jpg"
     }
 ]

@@ -2,7 +2,7 @@
 
 const Cooking = () => {
     return (
-        <div>
+        <div className="md:w-1/3">
             <h2>cooking</h2>
         </div>
     );
