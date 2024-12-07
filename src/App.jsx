@@ -6,9 +6,13 @@ import Header from './Component/Header/Header'
 import Cards from './Component/Cards/Cards'
 import Cooking from './Component/Cooking/Cooking'
 import Bannar from './Component/Beground/Bannar'
+import { useState } from 'react'
 
 function App() {
-  
+  const[cooking, setCooking]=useState([])
+  const handleAddToCooking = card =>{
+    
+  }
 
   return (
     <>
@@ -17,7 +21,7 @@ function App() {
         <Bannar></Bannar>
         <div className='flex '>
           <div className=''>
-            <Cards></Cards>
+            <Cards handleAddToCooking={handleAddToCooking}></Cards>
           </div>
           <div className='max-w-sm  mx-auto'>
             <Cooking></Cooking>

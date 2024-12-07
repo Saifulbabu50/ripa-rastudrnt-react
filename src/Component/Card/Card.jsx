@@ -2,7 +2,7 @@ import Time from "../../assets/Time (2).png"
 import Vector from "../../assets/Vector (1).png"
 import PropTypes from 'prop-types'
 
-const Card = ({ card }) => {
+const Card = ({ card, handleAddToCooking }) => {
     const { img, recipeName, description, ingredients, time, calories, action }= card
     return (
         <div className=' p-5  border-black   '>
@@ -21,7 +21,7 @@ const Card = ({ card }) => {
                         <h1 className='text-xl font-medium'>Ingredients: 3</h1>
                         <p>
                             {
-                                ingredients.map(ingr => <li>{ingr}</li>)
+                                ingredients.map(ingr => <li key={card.id}>{ingr}</li>)
                             }
                         </p>
                     </div>
@@ -37,7 +37,9 @@ const Card = ({ card }) => {
                             </div>
                         </div>
                         <div className="card-actions justify-end">
-                            <button className="bg-green-700 w-40 text-xl font-medium rounded-full">{action}</button>
+                            <button 
+                                onClick={()=>handleAddToCooking (card)}
+                                className="bg-green-700 w-40 text-xl font-medium rounded-full">{action}</button>
                         </div>
                     </div>
                 </div>
@@ -46,6 +48,7 @@ const Card = ({ card }) => {
     );
 };
 Card.propTypes ={
-    card: PropTypes.object.isRequired
+    card: PropTypes.object.isRequired,
+    handleAddToCooking :PropTypes.func
 }
 export default Card;
