@@ -11,7 +11,8 @@ import { useState } from 'react'
 function App() {
   const[cooking, setCooking]=useState([])
   const handleAddToCooking = card =>{
-    
+    const newCooking =[...cooking, card]
+    setCooking(newCooking)
   }
 
   return (
@@ -24,7 +25,7 @@ function App() {
             <Cards handleAddToCooking={handleAddToCooking}></Cards>
           </div>
           <div className='max-w-sm  mx-auto'>
-            <Cooking></Cooking>
+            <Cooking cooking={cooking}></Cooking>
           </div>
         </div>
       </div>
